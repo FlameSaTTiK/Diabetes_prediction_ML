@@ -1,4 +1,4 @@
-# Simple Linear Regression Model for Predicting whether a person is Diabetic or not.
+# Support vector Model for Predicting whether a person is Diabetic or not.
 
 This repository contains a Python implementation of a Support Vector Machine model to predict whether a person is Diabetic or not based on Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction & Age. The model is built using libraries like **Pandas**, **NumPy** and **Scikit-Learn**.
 
